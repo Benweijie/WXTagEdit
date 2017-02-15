@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+
+target '仿微信标签实现' do
+  pod 'Masonry', '~> 1.0.2'
+end
